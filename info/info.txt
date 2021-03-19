@@ -1,0 +1,18 @@
+папки
+actions - фенкціонал
+
+
+#  Ліби
+npm i redux
+npm i redux-thunk
+npm i react-redux
+npm install immutability-helper --save
+npm i redux-logger
+npm install --save redux-devtools-extension
+
+
+
+
+
+Links:
+https://www.youtube.com/watch?v=8NOzx0lQPu4
