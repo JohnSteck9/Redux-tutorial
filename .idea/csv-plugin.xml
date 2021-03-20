@@ -3,7 +3,28 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\John\Documents\GitHub Projects\react-redux-firebase\.env">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="C:\Users\John\Documents\GitHub Projects\react-redux-firebase\src\App\App.js">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\John\Documents\GitHub Projects\react-redux-firebase\src\components\pages\Home.js">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\John\Documents\GitHub Projects\react-redux-firebase\src\firebase\index.js">
           <value>
             <Attribute>
               <option name="separator" value=";" />

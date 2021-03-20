@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="react-redux-firebase" />
+    <orderEntry type="module" module-name="PROMETHEUS" />
   </component>
 </module>
